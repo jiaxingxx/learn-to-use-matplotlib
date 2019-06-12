@@ -57,3 +57,8 @@ mask:控制某个矩阵块是否显示出来。默认值是None。如果是布�
 ax:设置作图的坐标轴，一般画多个子图时需要修改不同的子图的该值 
 
 **kwargs:All other keyword arguments are passed to ax.pcolormesh
+
+
+
+2. 数据透视表及画图
+(https://blog.csdn.net/cymy001/article/details/79576019)
